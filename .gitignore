@@ -1,0 +1,6 @@
+.vscode/
+todo/todo/__pycache__/
+todo/todo_app/__pycache__/
+todo/todo_app/migrations/__pycache__/
+todo/db.sqlite3
+todo/todo/secrets.py
